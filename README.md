@@ -1,4 +1,4 @@
-#Hybrid Mobile App Example
+#Hybrid Mobile App Example v0.0.1
 
 This is an example Hybrid App that we've been working through in the course that I am teaching.
 
